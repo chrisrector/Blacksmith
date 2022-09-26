@@ -27,7 +27,7 @@
         },
         "location": {
             "type": "string",
-            "defaultValue": "westus2",
+            "defaultValue": "eastus",
             "allowedValues": [
                 "westus2",
                 "eastus",
